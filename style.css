@@ -23,7 +23,7 @@ body {
 }
 @keyframes colorful {
   100% {
-    font: hue-rotate(360deg);
+    filter: hue-rotate(360deg);
   }
 }
 .bar-seconds,
